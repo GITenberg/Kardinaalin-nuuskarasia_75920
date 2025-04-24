@@ -1,0 +1,34 @@
+_repo: Kardinaalin-nuuskarasia_75920
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lindgren, Helmi
+    gutenberg_agent_id: '58219'
+    url: http://www.gutenberg.org/2009/agents/58219
+creator:
+  author:
+    agent_name: Harland, Henry
+    alias: Luska, Sidney
+    birthdate: 1861
+    deathdate: 1905
+    gutenberg_agent_id: '1810'
+    url: http://www.gutenberg.org/2009/agents/1810
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Harland
+description: ''
+gutenberg_issued: '2025-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75920'
+language: fi
+pgterms:marc905: 20241102013524harland
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kardinaalin nuuskarasia
+url: http://www.gutenberg.org/ebooks/75920
