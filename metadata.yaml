@@ -5,6 +5,9 @@ contributor:
     agent_name: Lindgren, Helmi
     gutenberg_agent_id: '58219'
     url: http://www.gutenberg.org/2009/agents/58219
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harland, Henry
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1810
     wikipedia: https://en.wikipedia.org/wiki/Henry_Harland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75920#Kardinaalin-nuuskarasia
 gutenberg_issued: '2025-04-20'
 gutenberg_type: Text
 identifiers:
